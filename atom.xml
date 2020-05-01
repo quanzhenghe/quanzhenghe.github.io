@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://quanzhenghe.GitHub.io</id>
     <title>quanzhenghe</title>
-    <updated>2020-05-01T11:43:41.001Z</updated>
+    <updated>2020-05-01T13:37:27.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://quanzhenghe.GitHub.io"/>
     <link rel="self" href="https://quanzhenghe.GitHub.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://quanzhenghe.GitHub.io/images/avatar.png</logo>
     <icon>https://quanzhenghe.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, quanzhenghe</rights>
+    <entry>
+        <title type="html"><![CDATA[好物好买小程序]]></title>
+        <id>https://quanzhenghe.GitHub.io/post/hao-wu-hao-mai-xiao-cheng-xu/</id>
+        <link href="https://quanzhenghe.GitHub.io/post/hao-wu-hao-mai-xiao-cheng-xu/">
+        </link>
+        <updated>2020-05-01T11:50:53.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://quanzhenghe.GitHub.io/post-images/1588333887910.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[个人作品集]]></title>
         <id>https://quanzhenghe.GitHub.io/post/ge-ren-zuo-pin-ji/</id>
@@ -54,7 +63,7 @@
 <img src="https://quanzhenghe.GitHub.io/post-images/1588332301479.png" alt="" loading="lazy"><br>
 <img src="https://quanzhenghe.GitHub.io/post-images/1588332306266.png" alt="" loading="lazy"><br>
 <img src="https://quanzhenghe.GitHub.io/post-images/1588332310963.png" alt="" loading="lazy"><br>
-<img src="https://quanzhenghe.GitHub.io/post-images/1588332314875.png" alt="" loading="lazy"></p>
+<img src="https://quanzhenghe.GitHub.io/post-images/1588335193068.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
