@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://quanzhenghe.GitHub.io</id>
     <title>quanzhenghe</title>
-    <updated>2020-05-01T17:16:31.727Z</updated>
+    <updated>2020-05-01T17:50:43.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://quanzhenghe.GitHub.io"/>
     <link rel="self" href="https://quanzhenghe.GitHub.io/atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>https://quanzhenghe.GitHub.io/images/avatar.png</logo>
     <icon>https://quanzhenghe.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, quanzhenghe</rights>
-    <entry>
-        <title type="html"><![CDATA[好物好买小程序]]></title>
-        <id>https://quanzhenghe.GitHub.io/post/hao-wu-hao-mai-xiao-cheng-xu/</id>
-        <link href="https://quanzhenghe.GitHub.io/post/hao-wu-hao-mai-xiao-cheng-xu/">
-        </link>
-        <updated>2020-05-01T11:50:53.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://quanzhenghe.GitHub.io/post-images/1588333887910.png" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[个人作品集]]></title>
         <id>https://quanzhenghe.GitHub.io/post/ge-ren-zuo-pin-ji/</id>
@@ -64,6 +55,25 @@
 <img src="https://quanzhenghe.GitHub.io/post-images/1588332306266.png" alt="" loading="lazy"><br>
 <img src="https://quanzhenghe.GitHub.io/post-images/1588346077693.png" alt="" loading="lazy"><br>
 <img src="https://quanzhenghe.GitHub.io/post-images/1588335193068.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于我]]></title>
+        <id>https://quanzhenghe.GitHub.io/post/guan-yu-wo/</id>
+        <link href="https://quanzhenghe.GitHub.io/post/guan-yu-wo/">
+        </link>
+        <updated>2020-04-30T17:42:18.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://quanzhenghe.GitHub.io/post-images/1588354948863.png" alt="" loading="lazy"><br>
+<img src="https://quanzhenghe.GitHub.io/post-images/1588354953500.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好物好买小程序]]></title>
+        <id>https://quanzhenghe.GitHub.io/post/hao-wu-hao-mai-xiao-cheng-xu/</id>
+        <link href="https://quanzhenghe.GitHub.io/post/hao-wu-hao-mai-xiao-cheng-xu/">
+        </link>
+        <updated>2020-01-09T11:50:53.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://quanzhenghe.GitHub.io/post-images/1588333887910.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
